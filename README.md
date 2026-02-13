@@ -1,4 +1,4 @@
 # github-demo
 This is my first Git Repository.
 <br>
-Author-Irfan Ansari (Buther)
+Author-Irfan Ansari (Butcher)
